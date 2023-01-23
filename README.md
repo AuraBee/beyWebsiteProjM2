@@ -1,2 +1,10 @@
-# beyWebsiteProjM2
-Quick Personal Website Project
+Quick Personal Project
+
+
+Quick start:
+
+```
+$ npm install
+$ npm start
+````
+
